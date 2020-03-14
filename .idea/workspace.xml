@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e916d491-8273-48a8-aa14-ee56695c863f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Images/p1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/reset_css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/account-heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/account-plus.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/reset_css.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/reset_css.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583574704065</updated>
       <workItem from="1583574710203" duration="4736000" />
-      <workItem from="1584173467735" duration="11262000" />
+      <workItem from="1584173467735" duration="14371000" />
     </task>
     <servers />
   </component>
