@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e916d491-8273-48a8-aa14-ee56695c863f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Images/p1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/reset_css.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -33,9 +38,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Images" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -47,7 +59,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583574704065</updated>
-      <workItem from="1583574710203" duration="3201000" />
+      <workItem from="1583574710203" duration="4736000" />
+      <workItem from="1584173467735" duration="11262000" />
     </task>
     <servers />
   </component>
@@ -59,6 +72,10 @@
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state x="859" y="292" key="#Project_Structure/0.0.1920.1044@0.0.1920.1044" timestamp="1583574712841" />
+    <state x="781" y="405" key="com.intellij.ide.util.TipDialog" timestamp="1584173471555">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="781" y="405" key="com.intellij.ide.util.TipDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1584173471555" />
     <state x="1188" y="264" key="run.anything.popup" timestamp="1583576051321">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
